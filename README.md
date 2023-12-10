@@ -3,9 +3,9 @@
 
 A simple registration form validator with a visually appealing background created using Particle.js. This project helps you create a user-friendly registration form with real-time validation.
 
-Registration form Validator Preview **image** ![image](https://github.com/vera24brn/Registration-From-Validator/blob/master/preview_form_validator.jpeg)
+Registration form Validator Preview **image** ![image](https://github.com/vera24brn/Registration-Form-Validator/blob/master/preview_form_validator.jpeg)
 
-Registration form Validator with **error** Preview **image** ![image](https://github.com/vera24brn/Registration-From-Validator/blob/master/preview_form_validator_error.jpeg)
+Registration form Validator with **error** Preview **image** ![image](https://github.com/vera24brn/Registration-Form-Validator/blob/master/preview_form_validator_error.jpeg)
 
 ## Project Structure 📝
 •	**index.html**: The main HTML file containing the registration form structure.
@@ -58,7 +58,7 @@ To get started with this project, follow these steps:
 
 bashCopy code
 
-git clone https://github.com/vera24brn/Registration-From-Validator.git   
+git clone https://github.com/vera24brn/Registration-Form-Validator.git   
 
 2.	Open the project folder:
 
